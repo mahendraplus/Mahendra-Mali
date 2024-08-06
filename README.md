@@ -6,44 +6,44 @@ Welcome to my GitHub repository! I'm Mahendra Mali, a junior scientist with a pa
 
 **What I Do:**
 
-* **Cybersecurity Hero:** I build secure and innovative web, Android, IoT, and Linux solutions, protecting our digital world from threats.
-* **Tech Wizard:** I'm fluent in multiple programming languages, crafting elegant code for web applications, mobile apps, and connected devices.
-* **Creative Innovator:** I design stunning visuals and edit captivating videos, bringing ideas to life through multimedia.
-* **DIY Electronics Enthusiast:** I love tinkering with circuits and building cool gadgets, exploring the intersection of hardware and software.
+* **Cybersecurity Hero:** I build secure and innovative web, Android, IoT, and Linux solutions, protecting our digital world from threats. 🦸‍♂️💻🔒
+* **Tech Wizard:** I'm fluent in multiple programming languages (Python, C++, Perl, Shell, Java), crafting elegant code for web applications, mobile apps, and connected devices. 💻
+* **Creative Innovator:** I design stunning visuals and edit captivating videos, bringing ideas to life through multimedia. 🎨🎥
+* **DIY Electronics Enthusiast:** I love tinkering with circuits and building cool gadgets, exploring the intersection of hardware and software. 🤖🔌
 
-**My Projects:**
+**My Featured Projects:**
 
-* **[Project 1 Name](project_1_link):** [Brief description highlighting its purpose and key features]
-* **[Project 2 Name](project_2_link):** [Brief description highlighting its purpose and key features]
-* **[Project 3 Name](project_3_link):** [Brief description highlighting its purpose and key features]
+* **[AI-Home-Automation](https://github.com/mahendraplus/AI-Home-Automation):** Arduino and ESP8266 based home automation project. 💡🏠
+* **[B4Bomber](https://github.com/mahendraplus/B4Bomber):** Powerful SMS and call bombing tool built for Termux. 💣📱 
+* **[Dark-tunnel-config-files](https://github.com/mahendraplus/Dark-tunnel-config-files):** Collection of configuration files for Dark Tunnel VPN. 🔐🌐
+* **[MAXTER](https://github.com/mahendraplus/MAXTER):** Unique and stylish Termux theme designed for enhanced terminal experience.  🎨💻
+* **[Bus-Enquiry-Number-Gujarat](https://github.com/mahendraplus/Bus-Enquiry-Number-Gujarat):** Perl script providing bus depot contact and database information for Gujarat, India. 🚌🇮🇳
+* **[maxfit](https://github.com/mahendraplus/maxfit):** Android application designed for gym workouts and fitness tracking. 💪📱
+* **[SMS-Bomber](https://github.com/mahendraplus/SMS-Bomber):** An SMS bombing tool. 💣💬
+
+
+**Explore My Work:**
+
+You can find a complete list of my repositories [here](https://github.com/mahendraplus?tab=repositories).
 
 **Connect with Me:**
 
-* **Website:** [Your Website URL]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Twitter:** [Your Twitter Profile URL]
+* **Website:** [#]
+* **LinkedIn:** [#]
+* **Twitter:** [#]
 
 **Let's Collaborate!**
 
-I'm always eager to connect with fellow developers, designers, and scientists. If you have a project in mind or want to discuss the future of technology, don't hesitate to reach out.
+I'm always eager to connect with fellow developers, designers, and scientists. If you have a project in mind or want to discuss the future of technology, don't hesitate to reach out. 
+
+---
 
 **Languages:**
 
 This README is available in the following languages:
 
 * [English](README.md)
-* [Hindi](README.hi.md)
-* [Spanish](README.es.md)
-* [Add more languages as needed]
+* [Hindi](#) 
+* [Spanish](#) 
 
-**Note:**
-
-* Replace the bracketed information with your own details.
-* Add more project entries as you build your portfolio.
-* Create separate README files for each language (e.g., README.hi.md for Hindi) and translate the content accordingly.
-
-**Additional Tips:**
-
-* **Visual Appeal:** Use emojis, headings, and formatting to make your README visually engaging.
-* **Call to Action:** Encourage visitors to explore your projects, connect with you, or contribute to your work.
-* **Keep it Updated:** Regularly update your README with new projects, skills, and contact information.
+---
